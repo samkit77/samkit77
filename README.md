@@ -12,7 +12,6 @@ AI_Engineer = {
         "AI Security",
         "MLOps"
     ],
-
     "building_with": [
         "LangGraph",
         "AWS",
@@ -25,46 +24,33 @@ AI_Engineer = {
 
 ## 🧠 Areas of Interest
 
-🤖 Autonomous AI Agents
-
-🔎 Retrieval-Augmented Generation (RAG)
-
-🧬 LLM Fine-tuning & Alignment
-
-🛡️ Secure AI Systems & Red Teaming
-
-☁️ Cloud-Native AI Infrastructure
-
-⚙️ MLOps & Production ML Systems
+🤖 Autonomous AI Agents  
+🔎 RAG Systems  
+🧬 LLM Fine-tuning & Alignment  
+🛡️ AI Security & Red Teaming  
+☁️ Cloud-Native AI Infrastructure  
+⚙️ MLOps & Production ML Systems  
 
 ## ⚡ Tech Stack
 
-**🧠 Generative AI**
-LLM Engineering • LangGraph • LLM Agents • RAG • MCP  
-LLM Fine-tuning
+**Generative AI**  
+LLM Engineering • LangGraph • LLM Agents • RAG • MCP • Fine-tuning  
 
-**🔍 AI Systems & Evaluation**
-Qdrant • pgvector • Redis • Semantic Search  
-Portkey • LangSmith • DeepEval • RAGAS • PyRIT  
-Guardrails AI • LLM Security Testing
+**AI Systems & Evaluation**  
+Qdrant • pgvector • Redis • Semantic Search • LangSmith • DeepEval • RAGAS • PyRIT • Guardrails AI  
 
-**☁️ Cloud & MLOps**
-AWS Bedrock • Terraform • Docker • Kubernetes  
-MLflow • CI/CD
-
-
+**Cloud & MLOps**  
+AWS Bedrock • Terraform • Docker • Kubernetes • MLflow • CI/CD  
 
 ## 🚀 Currently Building
 
-* Autonomous AI agents
-* Secure LLM applications
-* Production-ready RAG systems
-* Cloud-native AI platforms
+- Autonomous AI Agents
+- Secure LLM Applications
+- Production-ready RAG Systems
+- Cloud-native AI Platforms
 
 ## 🌱 Always Learning
 
 `AI Systems` `LLM Infrastructure` `AI Safety` `Distributed Systems`
 
-<p align="center">
-<b>Engineering intelligent systems where AI meets reliability ⚡</b>
-</p>
+**Engineering intelligent systems where AI meets reliability ⚡**
