@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hey, I'm Samkit
 
-<!--
-**samkit77/samkit77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer building secure, scalable intelligent systems 🚀
 
-Here are some ideas to get you started:
+```python
+AI_Engineer = {
+    "focus": [
+        "Generative AI",
+        "LLM Applications",
+        "Agentic AI",
+        "RAG Systems",
+        "AI Security",
+        "MLOps"
+    ],
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    "building_with": [
+        "LangGraph",
+        "AWS",
+        "Terraform",
+        "Docker",
+        "Kubernetes"
+    ]
+}
+```
+
+## 🧠 Areas of Interest
+
+🤖 Autonomous AI Agents
+
+🔎 Retrieval-Augmented Generation (RAG)
+
+🧬 LLM Fine-tuning & Alignment
+
+🛡️ Secure AI Systems & Red Teaming
+
+☁️ Cloud-Native AI Infrastructure
+
+⚙️ MLOps & Production ML Systems
+
+## ⚡ Tech Stack
+
+**🧠 Generative AI**
+LLM Engineering • LangGraph • LLM Agents • RAG • MCP  
+LLM Fine-tuning
+
+**🔍 AI Systems & Evaluation**
+Qdrant • pgvector • Redis • Semantic Search  
+Portkey • LangSmith • DeepEval • RAGAS • PyRIT  
+Guardrails AI • LLM Security Testing
+
+**☁️ Cloud & MLOps**
+AWS Bedrock • Terraform • Docker • Kubernetes  
+MLflow • CI/CD
+
+
+
+## 🚀 Currently Building
+
+* Autonomous AI agents
+* Secure LLM applications
+* Production-ready RAG systems
+* Cloud-native AI platforms
+
+## 🌱 Always Learning
+
+`AI Systems` `LLM Infrastructure` `AI Safety` `Distributed Systems`
+
+<p align="center">
+<b>Engineering intelligent systems where AI meets reliability ⚡</b>
+</p>
